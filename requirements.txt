@@ -1,0 +1,12 @@
+# Python dependencies used for data preparation, validation, and generating
+# the dashboard preview visuals in this repository.
+#
+# Install with:  pip install -r requirements.txt
+
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Optional, only needed if you want to run the SQL scripts locally against
+# a file-based database instead of PostgreSQL/MySQL:
+# (sqlite3 ships with the Python standard library, no install required)
