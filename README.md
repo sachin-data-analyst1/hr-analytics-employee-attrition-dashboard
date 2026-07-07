@@ -100,7 +100,7 @@ KPI cards (Total Employees, Attrition Rate, Active Employees, Avg Monthly Income
 donut, attrition rate by department, overtime impact, attrition rate by job role, attrition rate
 by tenure.
 
-![Executive Overview](01_executive_overview.png)
+![Executive Overview](images/01_executive_overview.png)
 
 ### Page 2 — Compensation & Demographics
 Income vs. attrition analysis, department pay comparison, age band headcount + attrition trend,
