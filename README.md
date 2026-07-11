@@ -24,7 +24,7 @@ It's built the way a data analyst would actually deliver this work end to end:
 4. **Business documentation** — translate findings into recommendations a non-technical
    stakeholder can act on
 
-## Business Problem
+## Business Problems
 
 The organization has seen a rising number of resignations without a clear, data-driven view of
 where attrition concentrates or which active employees are most at risk. Attrition is expensive —
